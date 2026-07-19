@@ -155,21 +155,6 @@ Retention Rate =
 - створення інтерактивних зрізів у Google Sheets;
 - формулювання аналітичних висновків.
 
-## Структура репозиторію
-
-```text
-user-retention-cohort-analysis/
-│
-├── README.md
-├── sql/
-│   └── cohort_retention_analysis.sql
-├── data/
-│   └── cohort_results.csv
-└── screenshots/
-    ├── cohort_table.png
-    └── retention_rate_table.png
-```
-
 ## Автор
 
 Навчальний проєкт виконано в межах курсу **Data Analytics**.
